@@ -2,6 +2,9 @@
 
 Nutribot is a serverless chatbot application built on AWS that simplifies meal planning by creating personalized 7-day meal plans tailored to your dietary preferences and goals. Harnessing the capabilities of AWS services, Nutribot provides an efficient and convenient solution for planning your meals.
 
+
+![image](https://github.com/user-attachments/assets/d4bb8a68-0e24-4109-9c8d-10c401c63756)
+
 ## Features
 
 - **Conversational Interface:** Interact with Nutribot through an intuitive chatbot built with AWS Lex. Simply convey your preferences and goals, and Nutribot will generate a personalized meal plan just for you.
